@@ -1,1 +1,1 @@
-# html
+# calculator using HTML,CSS & JAVASCRIPT
